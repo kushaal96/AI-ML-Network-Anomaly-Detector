@@ -1,0 +1,3888 @@
+2025-03-23 13:07:59,675 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:07:59
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63830 -> 443
+ - Packet Size: 112 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63830 > 208.103.161.1:https PA / Raw
+2025-03-23 13:07:59,681 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:07:59
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63823 -> 443
+ - Packet Size: 112 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63823 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:00,077 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.155.209
+ - Protocol: TCP
+ - Port: 64242 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64242 > 172.64.155.209:https A / Raw
+2025-03-23 13:08:00,324 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 PA / Raw
+2025-03-23 13:08:00,331 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63830 -> 443
+ - Packet Size: 83 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63830 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:00,348 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 A
+2025-03-23 13:08:00,539 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 240 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:00,546 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:00,565 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:00,571 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:00,579 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:00,586 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:00,594 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:00,604 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 417 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:00,615 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:00,621 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A / Raw
+2025-03-23 13:08:00,628 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A / Raw
+2025-03-23 13:08:00,635 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1297 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:00,641 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:00,647 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 85 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:00,654 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:00,661 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:00,666 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 89 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:00,672 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:00,679 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 131 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:00,685 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:00,692 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:00,699 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:00,705 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:00,711 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:00,717 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:00,727 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:00,733 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:00,740 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:00,746 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 373 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:00,752 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:00,759 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 166 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:00,765 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 85 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:00,774 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:00,780 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:00,788 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 89 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:00,794 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:00,800 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:00,812 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:00
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:01,052 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:01
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 49339 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:49339 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:01,541 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:01
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:01,548 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:01
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:01,591 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:01
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:01,597 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:01
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:02,025 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:02
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 317 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:02,031 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:02
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 317 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:02,070 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:02
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:02,075 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:02
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:02,796 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:02
+ - Source IP: 192.168.1.1
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 60381 -> 1900
+ - Packet Size: 174 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.1:60381 > 239.255.255.250:ssdp / Raw
+2025-03-23 13:08:03,056 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 192.168.1.1
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 60381 -> 1900
+ - Packet Size: 174 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.1:60381 > 239.255.255.250:ssdp / Raw
+2025-03-23 13:08:03,302 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 192.168.1.184
+ - Destination IP: 35.190.80.1
+ - Protocol: TCP
+ - Port: 64306 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64306 > 35.190.80.1:https A / Raw
+2025-03-23 13:08:03,317 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 192.168.1.1
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 60381 -> 1900
+ - Packet Size: 175 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.1:60381 > 239.255.255.250:ssdp / Raw
+2025-03-23 13:08:03,326 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 35.190.80.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64306
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 35.190.80.1:https > 192.168.1.184:64306 A
+2025-03-23 13:08:03,577 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 192.168.1.1
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 60381 -> 1900
+ - Packet Size: 175 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.1:60381 > 239.255.255.250:ssdp / Raw
+2025-03-23 13:08:03,976 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:03
+ - Source IP: 192.168.1.7
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 45058 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:45058 > 239.255.255.250:15600 / Raw
+2025-03-23 13:08:04,653 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:04
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:04,659 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:04
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:04,708 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:04
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:04,715 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:04
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:05,746 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:05
+ - Source IP: 192.168.1.184
+ - Destination IP: 52.202.251.46
+ - Protocol: TCP
+ - Port: 63806 -> 443
+ - Packet Size: 90 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63806 > 52.202.251.46:https PA / Raw
+2025-03-23 13:08:05,811 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:05
+ - Source IP: 192.168.1.184
+ - Destination IP: 104.18.32.47
+ - Protocol: TCP
+ - Port: 64224 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64224 > 104.18.32.47:https A / Raw
+2025-03-23 13:08:05,834 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:05
+ - Source IP: 104.18.32.47
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64224
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 104.18.32.47:https > 192.168.1.184:64224 A
+2025-03-23 13:08:06,004 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:06
+ - Source IP: 52.202.251.46
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63806
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 52.202.251.46:https > 192.168.1.184:63806 A
+2025-03-23 13:08:06,942 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:06
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:06,991 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:06
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 57869 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:57869 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:07,115 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:07,121 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:07,127 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:07,135 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:07,166 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:07,172 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:07,390 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:07,647 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:07,903 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:07,968 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:07
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:08,238 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:08
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:08,479 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:08
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:08,925 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:08
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:09,182 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:09
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.67.138
+ - Protocol: UDP
+ - Port: 57973 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57973 > 142.250.67.138:https / Raw
+2025-03-23 13:08:09,773 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:09
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:09,977 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:09
+ - Source IP: 192.168.1.7
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 44316 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:44316 > 239.255.255.250:15600 / Raw
+2025-03-23 13:08:11,423 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:11
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:12,127 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:12,133 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:12,139 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:12,145 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:12,176 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:12,182 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:12
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:13,033 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:13
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 58290 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:58290 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:13,346 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:13
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:13,353 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:13
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 318 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:13,391 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:13
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:13,397 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:13
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:14,672 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:14
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:14,709 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:14
+ - Source IP: 74.125.130.188
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 5228 -> 63784
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 74.125.130.188:5228 > 192.168.1.184:63784 A
+2025-03-23 13:08:14,715 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:14
+ - Source IP: 142.251.175.188
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 5228 -> 63783
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 142.251.175.188:5228 > 192.168.1.184:63783 A
+2025-03-23 13:08:14,720 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:14
+ - Source IP: 192.168.1.184
+ - Destination IP: 74.125.130.188
+ - Protocol: TCP
+ - Port: 63784 -> 5228
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63784 > 74.125.130.188:5228 A
+2025-03-23 13:08:14,726 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:14
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.251.175.188
+ - Protocol: TCP
+ - Port: 63783 -> 5228
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63783 > 142.251.175.188:5228 A
+2025-03-23 13:08:15,663 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:15
+ - Source IP: 192.168.1.184
+ - Destination IP: 52.187.79.109
+ - Protocol: TCP
+ - Port: 63787 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63787 > 52.187.79.109:https A / Raw
+2025-03-23 13:08:15,719 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:15
+ - Source IP: 52.187.79.109
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63787
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 52.187.79.109:https > 192.168.1.184:63787 A
+2025-03-23 13:08:15,979 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:15
+ - Source IP: 192.168.1.7
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 58990 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:58990 > 239.255.255.250:15600 / Raw
+2025-03-23 13:08:16,447 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:16
+ - Source IP: 192.168.1.184
+ - Destination IP: 4.213.25.240
+ - Protocol: TCP
+ - Port: 60649 -> 443
+ - Packet Size: 98 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:60649 > 4.213.25.240:https PA / Raw
+2025-03-23 13:08:16,483 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:16
+ - Source IP: 4.213.25.240
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 60649
+ - Packet Size: 229 bytes
+ - Packet Summary: Ether / IP / TCP 4.213.25.240:https > 192.168.1.184:60649 PA / Raw
+2025-03-23 13:08:16,527 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:16
+ - Source IP: 192.168.1.184
+ - Destination IP: 4.213.25.240
+ - Protocol: TCP
+ - Port: 60649 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:60649 > 4.213.25.240:https A
+2025-03-23 13:08:18,351 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:18,356 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:18,363 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:18,368 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:18,397 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:18,403 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:18,461 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 104.18.31.173
+ - Protocol: TCP
+ - Port: 64336 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64336 > 104.18.31.173:https A / Raw
+2025-03-23 13:08:18,486 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 104.18.31.173
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64336
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 104.18.31.173:https > 192.168.1.184:64336 A
+2025-03-23 13:08:18,557 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63823
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63823 PA / Raw
+2025-03-23 13:08:18,562 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63823 -> 443
+ - Packet Size: 83 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63823 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:18,585 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:18
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63823
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63823 A
+2025-03-23 13:08:19,074 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 56915 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:56915 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:19,196 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.67.138
+ - Protocol: UDP
+ - Port: 57973 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57973 > 142.250.67.138:https / Raw
+2025-03-23 13:08:19,792 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,798 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,804 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,809 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 120 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,816 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 649 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,822 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,828 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,835 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,841 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,848 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,854 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,860 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 351 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,866 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 983 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,872 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 68 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,878 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,888 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 120 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,894 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,901 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 64 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,907 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,913 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,920 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 162 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,927 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,933 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 570 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:19,939 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.182.131
+ - Protocol: UDP
+ - Port: 56165 -> 443
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:56165 > 142.250.182.131:https / Raw
+2025-03-23 13:08:19,946 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:19
+ - Source IP: 142.250.182.131
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 56165
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.182.131:https > 192.168.1.184:56165 / Raw
+2025-03-23 13:08:21,132 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:21
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:21,979 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:21
+ - Source IP: 192.168.1.7
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 43910 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:43910 > 239.255.255.250:15600 / Raw
+2025-03-23 13:08:23,360 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:23,365 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:23,373 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:23,379 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:23,408 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:23,414 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:23
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:25,014 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:25
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 43144 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:43144 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:25,590 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:25
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 PA / Raw
+2025-03-23 13:08:25,596 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:25
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63830 -> 443
+ - Packet Size: 83 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63830 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:25,616 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:25
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 A
+2025-03-23 13:08:26,818 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain S
+2025-03-23 13:08:26,827 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain S
+2025-03-23 13:08:26,833 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64404
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64404 SA
+2025-03-23 13:08:26,840 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain A
+2025-03-23 13:08:26,847 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64405
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64405 SA
+2025-03-23 13:08:26,855 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain A
+2025-03-23 13:08:26,861 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:26,869 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 98 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:26,876 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:26,883 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 98 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:26,890 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:26,897 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:26,907 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 124 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:26,914 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64404
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64404 A
+2025-03-23 13:08:26,921 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64404
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64404 A
+2025-03-23 13:08:26,928 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64405
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64405 A
+2025-03-23 13:08:26,935 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64405
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64405 A
+2025-03-23 13:08:26,943 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:26,954 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:26,962 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64405
+ - Packet Size: 150 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans
+2025-03-23 13:08:26,969 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain FA
+2025-03-23 13:08:26,978 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64404
+ - Packet Size: 116 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans 142.250.195.42
+2025-03-23 13:08:26,985 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain FA
+2025-03-23 13:08:26,992 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:26,999 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:26
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,005 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 117 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,012 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64405
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64405 FA
+2025-03-23 13:08:27,019 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64404
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64404 FA
+2025-03-23 13:08:27,025 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64405 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64405 > 192.168.1.1:domain A
+2025-03-23 13:08:27,032 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64404 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64404 > 192.168.1.1:domain A
+2025-03-23 13:08:27,038 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,046 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,053 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,060 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 463 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,066 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 672 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,072 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,078 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,084 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,090 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 120 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,097 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,103 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,109 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,114 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,120 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,127 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,133 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 375 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,139 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,145 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 498 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,151 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,159 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 500 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,167 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,174 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 162 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,180 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,187 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,193 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,199 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,206 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,213 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,220 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,226 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,232 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,238 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,244 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,251 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 592 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,256 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 81 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,263 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 202 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,269 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,275 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,282 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,288 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 722 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,294 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1288 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,302 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 737 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,308 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,315 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 153 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,320 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 199 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,327 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,333 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1008 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,339 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 163 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,345 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 65 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,351 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,357 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,363 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 69 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,370 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 69 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,376 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,382 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,388 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 67 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,394 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 69 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,400 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1284 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,407 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 173 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,414 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,420 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 1008 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,428 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 234 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,434 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 54871 -> 443
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:54871 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,440 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 54871
+ - Packet Size: 65 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:54871 / Raw
+2025-03-23 13:08:27,446 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 890 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,452 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 667 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,460 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 78 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,467 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 667 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,473 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,478 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 130 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,484 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,490 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,496 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.46
+ - Protocol: UDP
+ - Port: 63073 -> 443
+ - Packet Size: 73 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:63073 > 142.250.195.46:https / Raw
+2025-03-23 13:08:27,503 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.46
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 63073
+ - Packet Size: 65 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.46:https > 192.168.1.184:63073 / Raw
+2025-03-23 13:08:27,520 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain S
+2025-03-23 13:08:27,526 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain S
+2025-03-23 13:08:27,532 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64406
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64406 SA
+2025-03-23 13:08:27,538 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain A
+2025-03-23 13:08:27,544 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64407
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64407 SA
+2025-03-23 13:08:27,551 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain A
+2025-03-23 13:08:27,558 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:27,564 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 103 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:27,570 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:27,577 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 103 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:27,583 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64406
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64406 A
+2025-03-23 13:08:27,589 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64406
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64406 A
+2025-03-23 13:08:27,595 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64407
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64407 A
+2025-03-23 13:08:27,601 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64407
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64407 A
+2025-03-23 13:08:27,607 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:27,614 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64407
+ - Packet Size: 155 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans
+2025-03-23 13:08:27,620 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain FA
+2025-03-23 13:08:27,631 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64407
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64407 FA
+2025-03-23 13:08:27,637 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64407 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64407 > 192.168.1.1:domain A
+2025-03-23 13:08:27,643 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64406
+ - Packet Size: 121 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans 142.250.195.42
+2025-03-23 13:08:27,649 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain FA
+2025-03-23 13:08:27,655 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:27,660 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,668 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,674 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 123 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,681 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 568 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,687 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64406
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64406 FA
+2025-03-23 13:08:27,693 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64406 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64406 > 192.168.1.1:domain A
+2025-03-23 13:08:27,700 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,706 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,714 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,721 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,728 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,735 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,741 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 1292 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,747 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 596 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,753 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 81 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,759 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 82 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,766 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 125 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,771 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 604 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,778 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 603 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,783 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 701 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,790 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 1019 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,796 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 163 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,802 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 76 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,809 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,815 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,821 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:27,828 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 74 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,839 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 240 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,845 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 63 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,850 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.195.42
+ - Protocol: UDP
+ - Port: 50250 -> 443
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:50250 > 142.250.195.42:https / Raw
+2025-03-23 13:08:27,857 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 541 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:27,869 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 142.250.195.42
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 443 -> 50250
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / UDP 142.250.195.42:https > 192.168.1.184:50250 / Raw
+2025-03-23 13:08:27,875 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:27,981 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:27
+ - Source IP: 192.168.1.7
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 39653 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:39653 > 239.255.255.250:15600 / Raw
+2025-03-23 13:08:28,066 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:28,081 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 79 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:28,335 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:28,367 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:28,374 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 PA / Raw
+2025-03-23 13:08:28,380 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63785
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63785 PA / Raw
+2025-03-23 13:08:28,385 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.11
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 8009 -> 63786
+ - Packet Size: 164 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.11:8009 > 192.168.1.184:63786 PA / Raw
+2025-03-23 13:08:28,415 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63786 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63786 > 192.168.1.11:8009 A
+2025-03-23 13:08:28,421 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.11
+ - Protocol: TCP
+ - Port: 63785 -> 8009
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63785 > 192.168.1.11:8009 A
+2025-03-23 13:08:28,462 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 3.233.158.24
+ - Protocol: TCP
+ - Port: 64402 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64402 > 3.233.158.24:https A / Raw
+2025-03-23 13:08:28,510 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 3.233.158.24
+ - Protocol: TCP
+ - Port: 64401 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64401 > 3.233.158.24:https A / Raw
+2025-03-23 13:08:28,590 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:28,732 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 3.233.158.24
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64402
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 3.233.158.24:https > 192.168.1.184:64402 A
+2025-03-23 13:08:28,812 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 3.233.158.24
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64401
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 3.233.158.24:https > 192.168.1.184:64401 A
+2025-03-23 13:08:28,846 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:28
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:29,099 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:29,195 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.250.67.138
+ - Protocol: UDP
+ - Port: 57973 -> 443
+ - Packet Size: 75 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57973 > 142.250.67.138:https / Raw
+2025-03-23 13:08:29,353 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:29,609 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:29,722 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63823
+ - Packet Size: 108 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63823 PA / Raw
+2025-03-23 13:08:29,728 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63823 -> 443
+ - Packet Size: 112 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63823 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:29,735 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 108 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 PA / Raw
+2025-03-23 13:08:29,741 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 192.168.1.184
+ - Destination IP: 208.103.161.1
+ - Protocol: TCP
+ - Port: 63830 -> 443
+ - Packet Size: 112 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63830 > 208.103.161.1:https PA / Raw
+2025-03-23 13:08:29,748 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63823
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63823 A
+2025-03-23 13:08:29,755 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:29
+ - Source IP: 208.103.161.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 63830
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 208.103.161.1:https > 192.168.1.184:63830 A
+2025-03-23 13:08:30,071 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:30,725 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 241 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:30,733 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:30,751 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:30,760 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:30,765 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:30,774 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:30,781 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:30,789 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 420 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:30,796 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:30,804 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A / Raw
+2025-03-23 13:08:30,810 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A / Raw
+2025-03-23 13:08:30,816 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 1297 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:30,822 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:30,828 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 85 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 PA / Raw
+2025-03-23 13:08:30,835 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https A
+2025-03-23 13:08:30,842 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.152.241
+ - Protocol: TCP
+ - Port: 64231 -> 443
+ - Packet Size: 89 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64231 > 172.64.152.241:https PA / Raw
+2025-03-23 13:08:30,848 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain S
+2025-03-23 13:08:30,854 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain S
+2025-03-23 13:08:30,860 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 131 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:30,867 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:30,873 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64408
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64408 SA
+2025-03-23 13:08:30,880 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain A
+2025-03-23 13:08:30,886 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64409
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64409 SA
+2025-03-23 13:08:30,893 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:30,900 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain A
+2025-03-23 13:08:30,906 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 95 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:30,912 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:30,918 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 95 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:30,924 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64408
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64408 A
+2025-03-23 13:08:30,930 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64408
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64408 A
+2025-03-23 13:08:30,935 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64409
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64409 A
+2025-03-23 13:08:30,943 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64409
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64409 A
+2025-03-23 13:08:30,949 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 93 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:30,955 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:30,961 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:30,967 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:30,974 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:30,980 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64409
+ - Packet Size: 156 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans
+2025-03-23 13:08:30,986 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain FA
+2025-03-23 13:08:30,995 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:30
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain S
+2025-03-23 13:08:31,001 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64410
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64410 SA
+2025-03-23 13:08:31,007 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain A
+2025-03-23 13:08:31,014 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 371 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:31,022 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 56 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:31,029 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:31,035 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 95 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain PA / Raw
+2025-03-23 13:08:31,042 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 166 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:31,048 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 85 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 PA / Raw
+2025-03-23 13:08:31,055 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https A
+2025-03-23 13:08:31,061 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64409
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64409 FA
+2025-03-23 13:08:31,067 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64409 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64409 > 192.168.1.1:domain A
+2025-03-23 13:08:31,073 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.64.149.196
+ - Protocol: TCP
+ - Port: 64233 -> 443
+ - Packet Size: 89 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64233 > 172.64.149.196:https PA / Raw
+2025-03-23 13:08:31,080 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64410
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64410 A
+2025-03-23 13:08:31,086 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64410
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64410 A
+2025-03-23 13:08:31,092 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 172.64.152.241
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64231
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.152.241:https > 192.168.1.184:64231 A
+2025-03-23 13:08:31,098 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64408
+ - Packet Size: 129 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans 104.18.38.60
+2025-03-23 13:08:31,105 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain FA
+2025-03-23 13:08:31,111 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain FA
+2025-03-23 13:08:31,116 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64408
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64408 FA
+2025-03-23 13:08:31,122 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64408 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64408 > 192.168.1.1:domain A
+2025-03-23 13:08:31,128 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 142.251.175.188
+ - Protocol: TCP
+ - Port: 63783 -> 5228
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63783 > 142.251.175.188:5228 A / Raw
+2025-03-23 13:08:31,135 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64410
+ - Packet Size: 129 bytes
+ - Packet Summary: Ether / IP / TCP / DNS Ans 104.18.38.60
+2025-03-23 13:08:31,142 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: TCP
+ - Port: 64410 -> 53
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64410 > 192.168.1.1:domain RA
+2025-03-23 13:08:31,147 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 53 -> 64410
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.1:domain > 192.168.1.184:64410 FA
+2025-03-23 13:08:31,154 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 172.64.149.196
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64233
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 172.64.149.196:https > 192.168.1.184:64233 A
+2025-03-23 13:08:31,160 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 142.251.175.188
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 5228 -> 63783
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 142.251.175.188:5228 > 192.168.1.184:63783 A
+2025-03-23 13:08:31,166 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 172.217.174.74
+ - Protocol: UDP
+ - Port: 57379 -> 443
+ - Packet Size: 71 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.184:57379 > 172.217.174.74:https / Raw
+2025-03-23 13:08:31,178 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.7
+ - Destination IP: 192.168.1.255
+ - Protocol: UDP
+ - Port: 60802 -> 15600
+ - Packet Size: 77 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.7:60802 > 192.168.1.255:15600 / Raw
+2025-03-23 13:08:31,184 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.184
+ - Destination IP: 74.125.130.188
+ - Protocol: TCP
+ - Port: 63784 -> 5228
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:63784 > 74.125.130.188:5228 A / Raw
+2025-03-23 13:08:31,215 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 74.125.130.188
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 5228 -> 63784
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 74.125.130.188:5228 > 192.168.1.184:63784 A
+2025-03-23 13:08:31,694 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:31
+ - Source IP: 192.168.1.214
+ - Destination IP: 239.255.255.250
+ - Protocol: UDP
+ - Port: 49084 -> 1900
+ - Packet Size: 167 bytes
+ - Packet Summary: Ether / IP / UDP 192.168.1.214:49084 > 239.255.255.250:ssdp / Raw
+2025-03-23 13:08:32,035 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 34.120.32.134
+ - Protocol: TCP
+ - Port: 64361 -> 443
+ - Packet Size: 55 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64361 > 34.120.32.134:https A / Raw
+2025-03-23 13:08:32,070 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 34.120.32.134
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64361
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 34.120.32.134:https > 192.168.1.184:64361 A
+2025-03-23 13:08:32,253 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 192.168.1.1
+ - Protocol: UDP
+ - Port: 57498 -> 53
+ - Packet Size: 78 bytes
+ - Packet Summary: Ether / IP / UDP / DNS Qry b'fcm.googleapis.com.'
+2025-03-23 13:08:32,276 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.1
+ - Destination IP: 192.168.1.184
+ - Protocol: UDP
+ - Port: 53 -> 57498
+ - Packet Size: 142 bytes
+ - Packet Summary: Ether / IP / UDP / DNS Ans 216.239.38.57
+2025-03-23 13:08:32,282 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https S
+2025-03-23 13:08:32,294 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 66 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 SA
+2025-03-23 13:08:32,301 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https A
+2025-03-23 13:08:32,311 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 571 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https PA / Raw
+2025-03-23 13:08:32,319 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 A
+2025-03-23 13:08:32,346 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 A / Raw
+2025-03-23 13:08:32,353 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 1304 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 PA / Raw
+2025-03-23 13:08:32,359 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https A
+2025-03-23 13:08:32,365 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 890 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 PA / Raw
+2025-03-23 13:08:32,371 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 134 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https PA / Raw
+2025-03-23 13:08:32,377 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 192.168.1.184
+ - Destination IP: 216.239.38.57
+ - Protocol: TCP
+ - Port: 64413 -> 443
+ - Packet Size: 611 bytes
+ - Packet Summary: Ether / IP / TCP 192.168.1.184:64413 > 216.239.38.57:https PA / Raw
+2025-03-23 13:08:32,383 - 
+[ALERT] Anomaly Detected!
+ - Time: 2025-03-23 13:08:32
+ - Source IP: 216.239.38.57
+ - Destination IP: 192.168.1.184
+ - Protocol: TCP
+ - Port: 443 -> 64413
+ - Packet Size: 54 bytes
+ - Packet Summary: Ether / IP / TCP 216.239.38.57:https > 192.168.1.184:64413 A

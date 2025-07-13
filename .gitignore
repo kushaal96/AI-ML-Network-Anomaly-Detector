@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+.pytest_cache/
+
+# Node modules (if used in frontend)
+node_modules/
+
+# Model and scaler files
+*.pkl
+
+# Data files (optional)
+*.xlsx
+*.csv
+
+# OS generated
+.DS_Store
+
+# Environment variables
+.env
+
+network-monitor/node_modules/
