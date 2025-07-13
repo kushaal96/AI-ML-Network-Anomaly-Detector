@@ -16,11 +16,7 @@ ai-ml/
 ├── *.xlsx / *.csv # Sample data
 └── .gitignore, README.md
 
-yaml
-Copy
-Edit
 
----
 
 ## 🚀 Getting Started
 
