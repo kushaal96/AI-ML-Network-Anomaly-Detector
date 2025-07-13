@@ -34,9 +34,6 @@ python app.py
 This will start your backend server.
 
 2. Frontend (React)
-bash
-Copy
-Edit
 cd ai-ml/network-monitor
 npm install
 npm start
